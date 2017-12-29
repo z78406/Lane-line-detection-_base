@@ -1,2 +1,3 @@
 # Lane-line-detection-_base
-An algorithm to detect lane line
+# Finding Lane Lines On The Road
+The goals of this project are the following:
